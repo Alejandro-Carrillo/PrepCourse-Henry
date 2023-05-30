@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Esta es una prueba desde Github
+Alejandro Carrillo, Este repositorio es una prueba de como crear un repositorio y clonarlo a mi escritorio local
